@@ -20,9 +20,8 @@ Step 5 : Display the operations done the input in the terminal.
 ## Program
 ```
 import java.util.Scanner;
-public class Main {
-
-
+public class NumberDays
+{
     public static void main(String[] strings) {
 
         Scanner input = new Scanner(System.in);
