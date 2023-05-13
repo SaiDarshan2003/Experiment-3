@@ -3,7 +3,7 @@
 # Find the numbers of days in a month
 
 ## Aim:
-  To write a Java program to find the number of days in a month
+  To write a Java program to find the number of days in a month.
   
 ## Algorithm
 
@@ -77,4 +77,4 @@ public class Main {
 
 
 ## Result 
-  We have successfully created a Java program to display the numbers of days in a month
+  We have successfully created a Java program to display the numbers of days in a month.
